@@ -1,0 +1,4 @@
+{
+  "testServeur": "id of your server",
+  "devs": ["id of the first dev", "id of the second dev"]
+}

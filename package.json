@@ -1,0 +1,23 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "A French discord bot created to do everything",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IllusionSoul0/discord-bot.git"
+  },
+  "author": "IllusionSoul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IllusionSoul0/discord-bot/issues"
+  },
+  "homepage": "https://github.com/IllusionSoul0/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.24.0",
+    "dotenv": "^17.2.3"
+  }
+}
